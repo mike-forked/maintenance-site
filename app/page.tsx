@@ -24,7 +24,7 @@ export default function Home() {
         <div className="h-px w-16 bg-border mx-auto mb-8" />
 
         <p className="text-text-faint text-xs tracking-wide">
-          &copy; {new Date().getFullYear()} — All rights reserved
+          &copy; {new Date().getFullYear()} - RedFox Studios, All rights reserved
         </p>
       </div>
     </div>
